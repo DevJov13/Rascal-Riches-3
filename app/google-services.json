@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690899589460",
+    "project_id": "xiaomi-rascal-ee01b",
+    "storage_bucket": "xiaomi-rascal-ee01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690899589460:android:5251f27efd7f20551cd0c1",
+        "android_client_info": {
+          "package_name": "xm.rascal.mi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkEUiDVVzflPZzNgKyUy9zeySck8RZW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
